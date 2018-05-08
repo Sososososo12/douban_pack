@@ -9,7 +9,7 @@ from douban import ip_proxy
 all_types_names = []
 all_types_urls = []
 n = 0
-# 1
+
 print('开始读取'+'\n')
 print('……')
 begin_url = 'https://movie.douban.com/chart'
