@@ -10,6 +10,7 @@ all_types_names = []
 all_types_urls = []
 n = 0
 
+
 print('开始读取'+'\n')
 print('……')
 begin_url = 'https://movie.douban.com/chart'
